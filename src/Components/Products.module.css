@@ -1,0 +1,21 @@
+.cont{
+
+    width: 60%;
+    margin: 30px auto;
+    justify-content: center;
+}
+table, td {
+    border: 1px solid black;
+}
+
+table{
+    width: 100%;
+}
+th{
+    height: 40px;
+    background-color: orangered;
+}
+td{
+  width: 30%;
+  height: 50px;
+}
